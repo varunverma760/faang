@@ -1,5 +1,5 @@
 #include <iostream>
-uisng namespace std;
+using namespace std;
 void setithbit(int &n,int i){
 
 	int mask =(1<<i);
